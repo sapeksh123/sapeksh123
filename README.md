@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sapeksh Vishwakarma</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sapeksh123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -8,16 +12,15 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **dynamic web applications and API integrations**
-- 🌱 Exploring **Next.js, advanced backend architectures, and cloud deployment**
-- 💡 Always striving to create clean, maintainable code and smooth user experiences
-- 💬 Ask me about **full-stack development, web technologies, and database management**
-- 📫 Reach me at **sapekshvishwakarma@gmail.com**
+- 🔭 Currently working on *dynamic web applications and API integrations.*
+- 🌱 Exploring *Next.js, advanced backend architectures, and cloud deployment.*
+- 💬 Ask me about *full-stack development, web technologies, and database management.*
+- 📫 Reach me at *sapekshvishwakarma@gmail.com*  
 
 ---
 
 ### 📄 Resume
-📌 **[Download My Resume](https://drive.google.com/file/d/1tw8ChTt21wbnihLqZOocWRkFgXA0fohs/view?usp=drive_link)**
+📌 *Download My Resume ([https://drive.google.com/file/d/1tw8ChTt21wbnihLqZOocWRkFgXA0fohs/view?usp=drive_link])*  
 
 ---
 
@@ -29,7 +32,7 @@
   <a href="https://www.linkedin.com/in/sapeksh-vishwakarma-6124v/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_official_sapeksh_" target="_blank">
+  <a href="https://instagram.com/official_sapeksh" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
@@ -76,5 +79,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapeksh123&" alt="GitHub Streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapeksh123&" alt="GitHub Streak" />
+
 </p>
