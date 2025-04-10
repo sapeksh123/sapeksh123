@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sapeksh Vishwakarma</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sapeksh123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -10,15 +8,16 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **dynamic web applications and API integrations.**
-- 🌱 Exploring **Next.js, advanced backend architectures, and cloud deployment.**
-- 💬 Ask me about **full-stack development, web technologies, and database management.**
-- 📫 Reach me at **sapekshvishwakarma@gmail.com**  
+- 🔭 Currently working on **dynamic web applications and API integrations**
+- 🌱 Exploring **Next.js, advanced backend architectures, and cloud deployment**
+- 💡 Always striving to create clean, maintainable code and smooth user experiences
+- 💬 Ask me about **full-stack development, web technologies, and database management**
+- 📫 Reach me at **sapekshvishwakarma@gmail.com**
 
 ---
 
 ### 📄 Resume
-📌 **Download My Resume ([https://drive.google.com/file/d/1tw8ChTt21wbnihLqZOocWRkFgXA0fohs/view?usp=drive_link])**  
+📌 **[Download My Resume](https://drive.google.com/file/d/1tw8ChTt21wbnihLqZOocWRkFgXA0fohs/view?usp=drive_link)**
 
 ---
 
