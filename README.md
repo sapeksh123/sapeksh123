@@ -22,7 +22,7 @@
 
 ##  Tech Stack & Tools
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js  
-- **Backend:** Node.js, Express.js, PHP  
+- **Backend:** Node.js, Express.js
 - **Databases & ORM:** MySQL, MongoDB, Prisma  
 - **Programming Languages:** Java, JavaScript, PHP  
 - **Version Control & Collaboration:** Git, GitHub  
@@ -31,13 +31,12 @@
 <hr style="border: 2px solid #000;" />
 
 ##  Featured Projects
-- **AgroVerse** – Smart agriculture platform enabling farmers with digital crop & market solutions  
-- **Employee Attendance & Leave Management System** – MERN-based app with role-based authentication, admin dashboard, leave requests & salary tracking  
+- **GrowEdge** – Smart agriculture platform enabling farmers with digital crop & market solutions
+- **AI Based Cloudinary SaaS** – File/image management system with optimised cloud storage & CDN support  
 - **Blog Platform** – Full-featured blog application with CRUD, JWT authentication, and rich text editor  
-- **E-Commerce API** – Scalable backend for product management, orders, and secure authentication  
-- **Cloudinary SaaS** – File/image management system with optimised cloud storage & CDN support  
-- **DSA with Java** – Data Structures & Algorithms repository covering problem-solving and coding practice  
+- **E-Commerce API** – Scalable backend for product management, orders, and secure authentication
 - **Portfolio Website** – Personal portfolio built with React.js and TailwindCSS  
+- **DSA with Java** – Data Structures & Algorithms repository covering problem-solving and coding practice  
 
 <hr style="border: 2px solid #000;" />
 
