@@ -6,17 +6,15 @@
 <hr style="border: 2px solid #000;" />
 
 ###  About Me
-- Final-year B.Tech student at **Shri Ram Institute of Science and Technology, Jabalpur**  
+- B.Tech student at **Shri Ram Institute of Science and Technology, Jabalpur**  
 - Passionate about **Full-Stack Development** and modern web technologies  
-- Currently exploring **Next.js, Prisma ORM, advanced backend systems, and cloud deployment**  
+- Currently exploring **Next.js, Prisma ORM,Flutter, advanced backend systems, and cloud deployment**  
 - Strong interest in **API integrations, database management, and scalable architectures**  
 - Reach me at: **sapekshvishwakarma@gmail.com**
 
 <hr style="border: 2px solid #000;" />
 
-###  Resume
-- [View / Download My Resume](https://drive.google.com/file/d/1tw8ChTt21wbnihLqZOocWRkFgXA0fohs/view?usp=drive_link)  
-- [Portfolio](https://sapeksh-portfolio.netlify.app/)
+
 
 <hr style="border: 2px solid #000;" />
 
