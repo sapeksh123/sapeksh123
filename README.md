@@ -38,12 +38,25 @@
 
 <hr style="border: 2px solid #000;" />
 
-###  GitHub Stats
+## 🚀 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sapeksh123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sapeksh123&show_icons=true&theme=tokyonight" 
+    height="180em"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapeksh123&layout=compact&theme=tokyonight" 
+    height="180em"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapeksh123&" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=sapeksh123&theme=tokyonight" 
+    alt="GitHub Streak"
+  />
 </p>
 
 <hr style="border: 2px solid #000;" />
